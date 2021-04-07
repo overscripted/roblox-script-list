@@ -1,5 +1,4 @@
-## A whole lot of executable scripts,
-## Here, on this webpage!
+## A whole lot of executable scripts, Here, on this webpage!
 
 Chances are, this will be the only website which has such a massive collection of scripts!
 
@@ -7,32 +6,31 @@ You will never think "Ah, where's that script gone..." anymore! Just come here o
 
 # Scripts down here!
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Arsenal 
 
+#### Dark Hub
 ```markdown
-Syntax highlighted code block
+ loadstring(game:HttpGet(("https://pastebin.com/raw/yCrBkPaY"), true))()
+ 
+ Very good script with countless features. My favourite script! 
+ 
+ -> Rating 9.5/10!
+```
+#### Owl Hub
+```markdown
+loadstring(game:HttpGet("https://raw.githubusercontent.com/ZinityDrops/OwlHubLink/master/OwlHubBack.lua"))();
 
-# Header 1
-## Header 2
-### Header 3
+Simplistic GUI, all features working. Good script.
 
-- Bulleted
-- List
+-> Rating 8/10
+```
+#### Impulse Hub
+```markdown
+loadstring(game:HttpGet('http://impulse-hub.xyz/ImpulseHub',true))()
 
-1. Numbered
-2. List
+Nice hub, main unique feature is the fly option, ESP isn't perfect, but it isn't theirs.
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+-> Rating 8.5/10
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/overscripted/roblox-script-list/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+## More scripts to be added soon!
