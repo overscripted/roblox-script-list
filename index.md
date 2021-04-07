@@ -67,7 +67,7 @@ Nice hub, main unique feature is the fly option, ESP isn't perfect, but it isn't
  loadstring(game:HttpGet('https://pastebin.com/raw/MLPypHYv', true))()
  
  Has always hit and kill aura. With always hit,
- you must still have some level of accuracy for the knife to snap to the player.
+ You must still have some level of accuracy for the knife to snap to the player.
  
  -> Rating 8/10
 ```
